@@ -1,7 +1,7 @@
 import genanki
 from random import randint
-from id_generator import id_create
-from file_reader import txt_to_dict
+from modules.id_generator import id_create
+from modules.file_reader import txt_to_dict
 
 deck_name = input("Enter the deck name")
 
