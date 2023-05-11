@@ -1,0 +1,7 @@
+('Classes', 'In Python, classes are used to define objects. A class is a blueprint for creating objects that have properties and methods.'),
+('Objects', 'An object is an instance of a class. Once a class has been defined, objects can be created based on that class. Each object has its own set of properties and can perform its own set of methods.'),
+('Encapsulation', 'Encapsulation is the process of hiding the complexity of an object and only exposing the necessary functionality to the user. In Python, encapsulation is achieved using access modifiers such as public, private, and protected.'),
+('Inheritance', 'Inheritance is the process of creating a new class from an existing class. The new class inherits the properties and methods of the existing class and can add its own properties and methods.'),
+('Polymorphism', 'Polymorphism is the ability of an object to take on many forms. In Python, polymorphism is achieved using method overriding and method overloading. Method overriding is the process of creating a new method in a subclass that has the same name as a method in the superclass. Method overloading is the process of creating multiple methods with the same name but different parameters.'),
+('Abstraction', 'Abstraction is the process of hiding the implementation details of an object and only exposing the necessary functionality to the user. In Python, abstraction is achieved using abstract classes and interfaces.')
+
