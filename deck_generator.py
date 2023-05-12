@@ -5,7 +5,7 @@ from modules.file_reader import txt_to_dict
 
 deck_name = input("Enter the deck name")
 
-OOP_aspects = txt_to_dict("subject_file.txt")
+OOP_aspects = txt_to_dict("id_storage/subject_file.txt")
 
 
 model_id,deck_id = id_create()
