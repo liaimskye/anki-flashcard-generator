@@ -21,7 +21,7 @@ The python program reads the array from a text file and returns an anki deck, wi
  *  Next request the list to be returned as an array of tuples, with the key aspects as the first element and the description as the second element of each tuple.
     ![tuple array](images/GPT_array.png)
  * Copy the array into the subject_file.txt file. You must remove the variable name, "=" and "[]" signs from the copied text so there is only a set of tuples.
-    ![tuple in text file](images/Screenshot 2023-05-15 135324.png)
+    ![tuple in text file](images/tuple_set.png)
  The file reader module will then read this text file and return the tuples in the appropriate format for the deck generator.
  
  
