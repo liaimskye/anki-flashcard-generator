@@ -24,6 +24,10 @@ The python program reads the array from a text file and returns an anki deck, wi
     ![tuple in text file](images/tuple_set.png)
  The file reader module will then read this text file and return the tuples in the appropriate format for the deck generator.
  
+## Use ##
+Once the the subject_file.txt has been filled in, enter the command terminal and run the run_generator.bat file and ill in the deck name when prompted to do so.
+The new anki deck will appear within the project folder.
+ 
  
   
  
